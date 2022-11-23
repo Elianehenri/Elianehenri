@@ -1,9 +1,10 @@
-## <div align="center"> Hey! Meu nome é Eliane 👋
+## <div align="center"> Hey! Meu nome é Eliane 👩‍💻
 
-- <h3>Formada em Ciencias Contábeis <a href='https://emojitool.com/pt/caduceus'>☤</a></h3>
-- Técnico em Manutenção e Suporte em Informática 
-- Full Stack DEVinhouse .
+- <h3>Formada em Ciencias Contábeis.  <img align="center" alt="CSharp" height="40" width="40" src="https://www.emojiall.com/images/120/samsung/2624.png"></h3>
+- <h3>Técnico em Manutenção e Suporte em Informática. <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359772.png"> </h3>
+- <h3>Full Stack DEVinhouse.<img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-programming-new-media-flaticons-lineal-color-flat-icons-2.png"></h3>
 
+  ##
 <div align="center">
   <a href="https://https://github.com/Elianehenri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elianehenri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
