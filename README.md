@@ -3,6 +3,7 @@
 - <h3>Formada em Ciencias Contábeis.  <img align="center" alt="CSharp" height="40" width="40" src="https://www.emojiall.com/images/120/samsung/2624.png"></h3>
 - <h3>Técnico em Manutenção e Suporte em Informática. <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359772.png"> </h3>
 - <h3>Full Stack DEVinhouse.<img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-programming-new-media-flaticons-lineal-color-flat-icons-2.png"></h3>
+<a href="https://github.com/Elianehenri/curriculo-vitae/deployments/activity_log?environment=github-pages" target="_blank" rel="external">Meu Currículo</a></br>
 
   ##
 <div align="center">
