@@ -7,11 +7,11 @@
 </br>
 
   ##
+
 <div align="center">
-  <a href="https://https://github.com/Elianehenri">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?
-  username=Elianehenri&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/Elianehenri">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hElianehenri&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elianehenri&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 <div>
