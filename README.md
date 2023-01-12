@@ -6,11 +6,11 @@
 - <h3>Meu Currículo.<img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3559/3559565.png"><a href="https://elianehenri.github.io/curriculo-vitae/" target="_blank" rel="external">Curriculo</a></h3>
 </br>
 
-  ##
+  
 
-<div align="center">
-  <a href="https://github.com/Elianehenri">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hElianehenri&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+##<div align="center">
+ <a href="https://https://github.com/Elianehenri">
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elianehenri&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
