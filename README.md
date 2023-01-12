@@ -30,5 +30,5 @@
 <a href="mailto:elianehenriqueta@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-  ![Snake animation](https://github.com/seu-usuário-aqui/Elianehenri/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
 
