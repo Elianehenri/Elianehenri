@@ -13,7 +13,7 @@
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elianehenri&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
+![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
 <div>
 <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
@@ -31,7 +31,7 @@
 <a href="mailto:elianehenriqueta@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
- ![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
  
  <h3><p align="center">Total de Visitas no Perfil</p>
