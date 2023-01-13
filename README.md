@@ -6,7 +6,7 @@
 - <h3>Meu Currículo.<img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3559/3559565.png"><a href="https://elianehenri.github.io/curriculo-vitae/" target="_blank" rel="external">Curriculo</a></h3>
 </br>
 
-  ![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ## <div align="center">
  <a href="https://https://github.com/Elianehenri">
@@ -31,4 +31,12 @@
 <a href="mailto:elianehenriqueta@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+ ![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
+ </div>
+ 
+ <h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Elianehenri/count.svg"/>
+</p>
+
 
