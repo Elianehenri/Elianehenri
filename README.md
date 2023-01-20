@@ -17,10 +17,11 @@
  
  
 <div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Elianehenri&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Elianehenri" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&locale=en&theme=dracula" alt="Elianehenri" />
+  <img width="40%" src="https://streak-stats.demolab.com/?user=Elianehenri&theme=dracula" alt="Elianehenri" />
+  
 </div>
+ 
+ 
 <div>
 <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
