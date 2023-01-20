@@ -14,6 +14,13 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elianehenri&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+ 
+ 
+<div align="center" width="100%">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Elianehenri&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Elianehenri" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&locale=en&theme=dracula" alt="Elianehenri" />
+</div>
 <div>
 <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
@@ -23,11 +30,6 @@
   <img align="center" alt="angular" height="50" width="50" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
 </div>
 
-<div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" />
-</div>
 
 ## <h3> 📩Voce pode me encontrar em </h3>
 <div align="center">
