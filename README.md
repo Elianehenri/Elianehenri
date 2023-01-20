@@ -10,16 +10,13 @@
 
 ## <div align="center">
  <a href="https://https://github.com/Elianehenri">
+   <img width="40%" src="https://streak-stats.demolab.com/?user=Elianehenri&theme=algolia" alt="Elianehenri" />
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elianehenri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elianehenri&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
  
- 
-<div align="center" width="100%">
-  <img width="40%" src="https://streak-stats.demolab.com/?user=Elianehenri&theme=dracula" alt="Elianehenri" />
-  
-</div>
+
  
  
 <div>
