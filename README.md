@@ -19,6 +19,7 @@
   <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="CSharp" height="40" width="40" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-snippet-pack/1.51.0/1586892181474/Microsoft.VisualStudio.Services.Icons.Default">
   <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
+ <img align="center" alt="angular" height="50" width="50" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://miro.medium.com/max/256/1*tYwniVWMqcytJ1AQ6zud7A.png">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
