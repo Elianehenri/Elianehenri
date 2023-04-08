@@ -28,7 +28,7 @@
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://logospng.org/download/bootstrap/bootstrap-256.png">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
- 
+  <img align="center" alt="NodeJs" height="40" width="40" src="https://img2.gratispng.com/20190108/apk/kisspng-node-js-javascript-react-mean-angularjs-austin-anderson-5c3569cfb277c8.831319791547004367731.jpg">
 </div>
 
 
