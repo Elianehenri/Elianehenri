@@ -32,6 +32,7 @@
   <img align="center" alt="NodeJs" height="40" width="40" src="https://img2.gratispng.com/20190108/apk/kisspng-node-js-javascript-react-mean-angularjs-austin-anderson-5c3569cfb277c8.831319791547004367731.jpg">
   <img align="center" alt="React" height="40" width="40" src="https://icon-library.com/images/react-icon/react-icon-29.jpg">
   <img align="center" alt="Vue.Js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNH6sbjathGvLQ7dx4CUCPKWt2U-h7giCAHji0dVXEGA&s">
+ <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
 </div>
 
 
