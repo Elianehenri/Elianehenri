@@ -45,7 +45,7 @@
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
  
-![Snake animation](https://github.com/Elianehenri/Elianehenri/blob/output/github-contribution-grid-snake.svg)
+
 
  <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
