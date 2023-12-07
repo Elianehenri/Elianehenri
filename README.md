@@ -1,8 +1,8 @@
 ## <div align="center"> Hey! Meu nome é Eliane 👩‍💻</div>
 
+- <h3>Full Stack DEVinhouse.<img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-programming-new-media-flaticons-lineal-color-flat-icons-2.png"></h3>
 - <h3>Formada em Ciencias Contábeis.  <img align="center" alt="CSharp" height="40" width="40" src="https://www.emojiall.com/images/120/samsung/2624.png"></h3>
 - <h3>Técnico em Manutenção e Suporte em Informática. <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4359/4359772.png"> </h3>
-- <h3>Full Stack DEVinhouse.<img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-programming-new-media-flaticons-lineal-color-flat-icons-2.png"></h3>
 - <h3>Meu Currículo.<img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3559/3559565.png"><a href="https://elianehenri.github.io/curriculo-vitae/" target="_blank" rel="external">Curriculo</a></h3>
 </br>
 
